@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ( kyutashishu@gmail.com)
 - 😄 Pronouns: Attack helicopter/Flying Sword
-- ⚡ Fun fact: I'm just  realize life
+- ⚡ Fun fact: I just realize life
 
 <!---
 KyutaCodes/KyutaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
